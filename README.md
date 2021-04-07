@@ -1,5 +1,5 @@
-# endless-minigame-package (for unity & c#)
-An endless mini game package that contains basic managers and scenes. <br>
+# endless-minigame-package
+An endless mini game package that contains basic managers and scenes for unity & c#. <br>
 The creation purpose of this package was getting the MVP as fast as possible for testing. After the basic mechanics are implemented in your game, you can import this package and have all required UI for the MVP. <br>
 
 # How to use
